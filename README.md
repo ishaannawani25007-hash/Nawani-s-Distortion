@@ -14,3 +14,6 @@ ishaannawani25007@gmail.com for querries
 
 
 ![Img](https://github.com/ishaannawani25007-hash/Nawani-s-Distortion/blob/main/Screenshot%202026-02-25%20222911.png)
+![Img](https://github.com/ishaannawani25007-hash/Nawani-s-Distortion/blob/main/Screenshot%202026-02-25%20232701.png)
+![Img](https://github.com/ishaannawani25007-hash/Nawani-s-Distortion/blob/main/Screenshot%202026-02-25%20232652.png)
+![Img](https://github.com/ishaannawani25007-hash/Nawani-s-Distortion/blob/main/Screenshot%202026-02-25%20232638.png)
