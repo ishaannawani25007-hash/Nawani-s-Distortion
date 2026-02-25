@@ -13,5 +13,4 @@ Through this project, I got hands-on experience with analog audio processing, PC
 ishaannawani25007@gmail.com for querries
 
 
-
-<img width="1920" height="879" alt="image" src="[https://github.com/user-attachments/assets/7296311a-326d-42ee-b406-f11db2110955](https://github.com/ishaannawani25007-hash/Nawani-s-Distortion/blob/main/Screenshot%202026-02-25%20222911.png)" />
+![Img](https://github.com/ishaannawani25007-hash/Nawani-s-Distortion/blob/main/Screenshot%202026-02-25%20222911.png)
