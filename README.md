@@ -41,3 +41,5 @@ The Shematic.
 
 Theese are the 3d view of the pcb.
 
+The CAD Files for the enclosure:
+![Img](https://github.com/ishaannawani25007-hash/Nawani-s-Distortion/blob/main/Screenshot%202026-02-28%20050322.png)
