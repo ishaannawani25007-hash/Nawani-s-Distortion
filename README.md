@@ -30,7 +30,7 @@ The main aim was to understand how transistor amplification, biasing, and diode 
 Building the pedal also helped me learn how to design PCBs in KiCad, wire hardware, and layout enclosures.
 Instead of just copying an existing pedal, I created my own design and layout to better understand the whole process of building a pedal from a circuit diagram to the final product.
 
-Images:
+*_Images:_*
 
 PCB Layout:
 [FILE](https://github.com/ishaannawani25007-hash/Nawani-s-Distortion/tree/main/PCB)
@@ -50,7 +50,7 @@ CAD Enclosure
 ![Img](https://github.com/ishaannawani25007-hash/Nawani-s-Distortion/blob/main/IMG/enclosure%20bottom.png)
 
 
-Wiring 
+_Wiring_
 
 There is no fancy wiring i have made the pcb in such a way such that the layout of the pcb mainly the terminals are easy to understand and follow the PedalPCB website's wiring diagram, it has made my work a lot easier and the diagram also shows how to easily wire the pedal.
 
@@ -73,7 +73,7 @@ Gnd - Intended for power jack ground
 9v - Positive 9v power
 
 
-Note: The pedal wiring works the same as most PedalPCB pedals with a 3PDT footswitch unless otherwise noted. You can use this  [this build documentation](https://docs.pedalpcb.com/project/Amentum.pdf) build documentation as a wiring reference.
+Note: The pedal wiring works the same as most 'PedalPCB' pedals ,I have designed the circuit with that in mind. You can use this  [this build documentation](https://docs.pedalpcb.com/project/Amentum.pdf) build documentation as a wiring reference.
 
 ![Img](https://github.com/ishaannawani25007-hash/Nawani-s-Distortion/blob/main/Wire/Screenshot%202026-03-06%20004447.png)
 
