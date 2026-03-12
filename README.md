@@ -123,8 +123,7 @@ DIODES
 
 | 1 | [1N5817](https://robu.in/product/1n5817-t-diodes-incorporated-20v-750mv3a-1a-do-41-schottky-diodes-rohs/) |
 
-| 1 | [5mm LED](https://robu.in/product/tj-l5fytghrmfcsflc2r-a5-togialed-20ma-foggy-red-lens-20℃80℃-red-45-5mm-round-lamp-head-plugind5mm-led-indication-discrete-rohs/) (color of choice) | Note: Tayda drill template assumes the LED is in a 5mm bezel, change LED hole size as desired.
-
+| 1 | [5mm LED](https://robu.in/product/tj-l5fytghrmfcsflc2r-a5-togialed-20ma-foggy-red-lens-20℃80℃-red-45-5mm-round-lamp-head-plugind5mm-led-indication-discrete-rohs/) (color of choice) |
 
 
 POTENTIOMETERS
