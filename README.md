@@ -37,17 +37,17 @@ PCB Layout:
 
 The hardest part specially for me was to design the PCB as i am not an absolute professional at this although i did manage to make this from the schematic and was fun.
 
-![Img](https://github.com/ishaannawani25007-hash/Nawani-s-Distortion/blob/main/Photos/pcb.png)
+![Img](https://github.com/ishaannawani25007-hash/Nawani-s-Distortion/blob/main/IMG/pcb.png)
 
 
 CAD Enclosure
-[FILE](https://github.com/ishaannawani25007-hash/Nawani-s-Distortion/blob/main/Enclosure/EnclosureBodyLedVertical.STL)
+[FILE](https://github.com/ishaannawani25007-hash/Nawani-s-Distortion/blob/main/CAD/EnclosureBodyLedVertical.STL)
 
-![Img](https://github.com/ishaannawani25007-hash/Nawani-s-Distortion/blob/main/Photos/enclosure%20body.png)
+![Img](https://github.com/ishaannawani25007-hash/Nawani-s-Distortion/blob/main/IMG/enclosure%20body.png)
 
-[FILE](https://github.com/ishaannawani25007-hash/Nawani-s-Distortion/blob/main/Enclosure/BottomPart.STL)
+[FILE](https://github.com/ishaannawani25007-hash/Nawani-s-Distortion/blob/main/CAD/BottomPart.STL)
 
-![Img](https://github.com/ishaannawani25007-hash/Nawani-s-Distortion/blob/main/Photos/enclosure%20bottom.png)
+![Img](https://github.com/ishaannawani25007-hash/Nawani-s-Distortion/blob/main/IMG/enclosure%20bottom.png)
 
 
 Wiring 
@@ -75,7 +75,7 @@ Gnd - Intended for power jack ground
 
 Note: The pedal wiring works the same as most PedalPCB pedals with a 3PDT footswitch unless otherwise noted. You can use this  [this build documentation](https://docs.pedalpcb.com/project/Amentum.pdf) build documentation as a wiring reference.
 
-![Img](https://github.com/ishaannawani25007-hash/Nawani-s-Distortion/blob/main/Photos/Screenshot%202026-03-06%20004447.png)
+![Img](https://github.com/ishaannawani25007-hash/Nawani-s-Distortion/blob/main/IMG/Screenshot%202026-03-06%20004447.png)
 ==================================================================================================
 List Of Material 
 
