@@ -75,7 +75,8 @@ Gnd - Intended for power jack ground
 
 Note: The pedal wiring works the same as most PedalPCB pedals with a 3PDT footswitch unless otherwise noted. You can use this  [this build documentation](https://docs.pedalpcb.com/project/Amentum.pdf) build documentation as a wiring reference.
 
-![Img](https://github.com/ishaannawani25007-hash/Nawani-s-Distortion/blob/main/IMG/Screenshot%202026-03-06%20004447.png)
+![Img](https://github.com/ishaannawani25007-hash/Nawani-s-Distortion/blob/main/Wire/Screenshot%202026-03-06%20004447.png)
+
 ==================================================================================================
 List Of Material 
 
