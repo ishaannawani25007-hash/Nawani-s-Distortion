@@ -77,7 +77,7 @@ Note: The pedal wiring works the same as most PedalPCB pedals with a 3PDT footsw
 
 ![Img](https://github.com/ishaannawani25007-hash/Nawani-s-Distortion/blob/main/Wire/Screenshot%202026-03-06%20004447.png)
 
-==================================================================================================
+
 List Of Material 
 
 Theese materials are MOSTLY from robu although some parts if any that wont be on the website are updated below and links to each and every component is also given.
